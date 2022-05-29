@@ -1,2 +1,3 @@
-# lyrebird-audits
-Lyrebird smart contract audit reports
+# README #
+
+This repository contains the smart contract audit reports for Lyrebird.
